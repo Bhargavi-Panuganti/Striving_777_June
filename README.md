@@ -51,4 +51,12 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
