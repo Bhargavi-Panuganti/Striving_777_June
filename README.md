@@ -9,6 +9,7 @@ June
 | [0101-symmetric-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0101-symmetric-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -19,6 +20,7 @@ June
 | [0101-symmetric-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0101-symmetric-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
@@ -34,6 +36,7 @@ June
 | [0101-symmetric-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0101-symmetric-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -45,6 +48,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Backtracking
