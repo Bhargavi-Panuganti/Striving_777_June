@@ -48,6 +48,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0511-game-play-analysis-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0511-game-play-analysis-i/) | Easy |
+| [1075-project-employees-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1075-project-employees-i/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
