@@ -88,8 +88,14 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 <!---LeetCode Topics End-->
