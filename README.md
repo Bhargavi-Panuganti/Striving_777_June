@@ -56,6 +56,7 @@ June
 | [0098-validate-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -83,4 +84,12 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0143-reorder-list/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 <!---LeetCode Topics End-->
