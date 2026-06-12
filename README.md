@@ -68,6 +68,7 @@ June
 | [0450-delete-node-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [0704-binary-search](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0704-binary-search/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0704-binary-search](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0704-binary-search/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
