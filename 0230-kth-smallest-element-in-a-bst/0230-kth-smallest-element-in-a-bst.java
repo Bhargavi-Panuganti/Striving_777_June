@@ -14,24 +14,24 @@
  * }
  */
 class Solution {
-    int res=0;
+    int small_node=0;
     int count=0;
     public int kthSmallest(TreeNode root, int k) {
-        if(root==null)
-        return 0;
-        traverse(root,k);
-        return res;
+        if(root==null)return 0;
+        find_small_node(root,k);
+        return small_node;
     }
-    public void traverse(TreeNode root,int k)
+
+    public void find_small_node(TreeNode root,int k)
     {
         if(root==null)return;
-        traverse(root.left,k);
+
+        find_small_node(root.left,k);
         count++;
-        if(count==k)
-        {
-            res=root.val;
+        if(count==k){
+            small_node=root.val;
             return;
         }
-        traverse(root.right,k);
+        find_small_node(root.right,k);
     }
 }
