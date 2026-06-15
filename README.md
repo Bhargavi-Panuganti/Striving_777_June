@@ -73,6 +73,7 @@ June
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0035-search-insert-position/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0098-validate-binary-search-tree/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -108,6 +109,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0035-search-insert-position/) | Easy |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0704-binary-search/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
