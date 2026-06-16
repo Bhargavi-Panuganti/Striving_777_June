@@ -35,6 +35,7 @@ June
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0733-flood-fill/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -43,6 +44,7 @@ June
 | [0199-binary-tree-right-side-view](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
+| [0733-flood-fill](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0733-flood-fill/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -115,6 +117,7 @@ June
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0733-flood-fill/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -139,4 +142,5 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
+| [0733-flood-fill](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
