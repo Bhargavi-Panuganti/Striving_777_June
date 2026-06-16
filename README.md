@@ -29,6 +29,7 @@ June
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -40,6 +41,7 @@ June
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0101-symmetric-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Binary Tree
@@ -110,6 +112,7 @@ June
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0704-binary-search](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0704-binary-search/) | Easy |
 | [1626-best-team-with-no-conflicts](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1626-best-team-with-no-conflicts/) | Medium |
@@ -128,4 +131,12 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1143-longest-common-subsequence/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
