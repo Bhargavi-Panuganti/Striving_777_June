@@ -28,6 +28,7 @@ June
 | [0110-balanced-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0133-clone-graph](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
@@ -41,6 +42,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0101-symmetric-tree/) | Easy |
+| [0133-clone-graph](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0226-invert-binary-tree/) | Easy |
@@ -143,4 +145,12 @@ June
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
 | [0733-flood-fill](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0733-flood-fill/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0133-clone-graph/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0133-clone-graph](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0133-clone-graph/) | Medium |
 <!---LeetCode Topics End-->
