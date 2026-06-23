@@ -71,6 +71,7 @@ June
 | ------- | ------- |
 | [0511-game-play-analysis-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1075-project-employees-i/) | Easy |
+| [1321-restaurant-growth](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1321-restaurant-growth/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1907-count-salary-categories](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1907-count-salary-categories/) | Medium |
