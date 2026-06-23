@@ -70,6 +70,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0511-game-play-analysis-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0602-friend-requests-ii-who-has-the-most-friends/) | Medium |
 | [1075-project-employees-i](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1075-project-employees-i/) | Easy |
 | [1321-restaurant-growth](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1321-restaurant-growth/) | Medium |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
