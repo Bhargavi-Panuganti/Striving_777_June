@@ -131,6 +131,7 @@ June
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -142,6 +143,7 @@ June
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
