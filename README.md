@@ -131,6 +131,7 @@ June
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -166,4 +167,12 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0133-clone-graph/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
