@@ -121,6 +121,7 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0035-search-insert-position/) | Easy |
+| [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0055-jump-game/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0200-number-of-islands/) | Medium |
@@ -132,6 +133,7 @@ June
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -177,4 +179,8 @@ June
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0070-climbing-stairs/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Bhargavi-Panuganti/Striving_777_June/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
